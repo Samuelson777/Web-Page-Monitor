@@ -35,3 +35,6 @@ While the basic functionality is useful, there are several enhancements that cou
 - **Mobile Notifications**: Integrate with services like Twilio to send alerts to mobile devices.
 - **Customizable Check Intervals**: Allow users to set different check intervals for different URLs.
 - **Error Handling and Resilience**: Improve error handling to manage network issues gracefully.
+
+## License
+This project is licensed under the MIT [License](https://github.com/Samuelson777/Web-Page-Monitor/blob/main/LICENSE) - see the LICENSE file for details.
